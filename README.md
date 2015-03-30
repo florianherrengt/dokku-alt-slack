@@ -1,3 +1,6 @@
+Fork from https://github.com/ribot/dokku-slack
+Adapt for dokku-alt
+
 # Dokku Slack
 
 Dokku Slack is a plugin for [Dokku](https://github.com/progrium/dokku) that notifies [Slack](http://www.slack.com) of deployments.

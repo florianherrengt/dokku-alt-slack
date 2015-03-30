@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -eo pipefail; [[ $DOKKU_TRACE ]] && set -x
-source "$(dirname $0)/../dokku_common/functions"
+source "$(dirname $0)/../dokku_common"
 
 case "$1" in
   slack:set)

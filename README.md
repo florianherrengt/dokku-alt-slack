@@ -8,7 +8,7 @@ Dokku Slack is a plugin for [Dokku](https://github.com/progrium/dokku) that noti
 ## Installation
 
 ```sh
-git clone https://github.com/ribot/dokku-slack /var/lib/dokku/plugins/slack
+git clone https://github.com/florianherrengt/dokku-alt-slack.git /var/lib/dokku-alt/plugins/slack
 ```
 
 ## Commands
